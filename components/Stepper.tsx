@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Stepper() {
   return (
-    <div className="mb-44">
+    <section className="mb-44">
       <h2 className="text-left font-medium text-2xl text-secondary-color mb-4">
         Des solutions de réexpédition rationalisées
       </h2>
@@ -34,6 +34,6 @@ export default function Stepper() {
       <Button className="mt-12 mb-8 bg-secondary-color text-white font-medium">
         En savoir plus sur la réexpédition
       </Button>
-    </div>
+    </section>
   );
 }
