@@ -14,7 +14,7 @@ export default function ReshipmentCards() {
             stroke="currentColor"
             aria-hidden="true"
             data-slot="icon"
-            className="h-10 w-10 text-gray-500"
+            className="h-10 w-10 text-[#6B7280] "
           >
             <path
               stroke-linecap="round"
@@ -42,7 +42,7 @@ export default function ReshipmentCards() {
             stroke="currentColor"
             aria-hidden="true"
             data-slot="icon"
-            className="h-10 w-10 text-gray-500"
+            className="h-10 w-10 text-[#6B7280]"
           >
             <path
               stroke-linecap="round"
@@ -71,7 +71,7 @@ export default function ReshipmentCards() {
             stroke="currentColor"
             aria-hidden="true"
             data-slot="icon"
-            className="h-10 w-10 text-gray-500"
+            className="h-10 w-10 text-[#6B7280]"
           >
             <path
               stroke-linecap="round"
@@ -100,7 +100,7 @@ export default function ReshipmentCards() {
             stroke="currentColor"
             aria-hidden="true"
             data-slot="icon"
-            className="h-10 w-10 text-gray-500"
+            className="h-10 w-10 text-[#6B7280]"
           >
             <path
               stroke-linecap="round"

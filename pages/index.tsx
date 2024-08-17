@@ -15,7 +15,7 @@ export default function Home() {
         "min-h-screen text-center  p-4 pt-44 lg:px-6 container mx-auto  " + inter.className
       }
     >
-      <h1 className="font-bold md:text-6xl text-4xl mb-6 lg:w-1/2 lg:mx-auto">
+      <h1 className="font-bold md:text-6xl text-3xl  mb-8 lg:w-1/2 lg:mx-auto">
         Faites venir vos colis depuis n'importe où
       </h1>
       <p className="mb-16 lg:w-1/2 lg:mx-auto">

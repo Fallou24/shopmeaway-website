@@ -7,7 +7,7 @@ export default function Stepper() {
       <h2 className="text-left font-medium text-2xl text-secondary-color mb-4">
         Des solutions de réexpédition rationalisées
       </h2>
-      <p className="text-left opacity-60 mb-8 md:w-1/2">
+      <p className="text-left opacity-60 mb-16 md:w-1/2">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt
         temporibus optio praesentium quae saep.
       </p>

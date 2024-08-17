@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Pricing() {
   return (
-    <section>
+    <section className="mb-44">
       <h1 className="font-bold md:text-6xl text-4xl mb-6 lg:w-1/2 lg:mx-auto">
         Plans & Tarifs
       </h1>
@@ -21,8 +21,8 @@ export default function Pricing() {
           </CardHeader>
           <CardBody className="flex-col items-center">
             <h2 className="font-bold text-3xl mb-2"></h2>
-            <p className="flex items-center gap-4 mb-6">
-              <span className="font-bold text-3xl">0 CFA </span>
+            <p className="flex items-center gap-2 md:gap-4 mb-6">
+              <span className="font-bold text-3xl shrink-0">0 CFA </span>
               <span className="opacity-60">/ month • Shipping at 14$ / Kg</span>
             </p>
             <Button className="bg-primary-color text-white">Choisir</Button>
@@ -39,8 +39,8 @@ export default function Pricing() {
           </CardHeader>
           <CardBody className="flex-col items-center">
             <h2 className="font-bold text-3xl mb-2"></h2>
-            <p className="flex items-center gap-4 mb-6">
-              <span className="font-bold text-3xl">15 000 CFA </span>
+            <p className="flex gap-2 md:gap-4 mb-6 items-center">
+              <span className="font-bold text-3xl shrink-0">15 000 CFA </span>
               <span className="opacity-60">/ month • Shipping at 8$ / Kg</span>
             </p>
             <Button className="bg-primary-color text-white">Choisir</Button>
